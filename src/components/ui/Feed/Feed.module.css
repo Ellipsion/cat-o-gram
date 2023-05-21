@@ -1,0 +1,19 @@
+.feed {
+    /* background-color: white; */
+    /* max-width: 340px; */
+    width: 300px;
+    /* width: max-content; */
+    padding: 15px 10px;
+    margin: 12vh 0;
+    position: relative;
+}
+
+.devTools {
+    position: fixed;
+    z-index: 10;
+    right: 0;
+    top: 30%;
+    padding: 2px;
+    background-color: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(5px);
+}

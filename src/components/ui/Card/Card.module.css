@@ -1,0 +1,10 @@
+.Card {
+    margin: 10px 0;
+    background: #000 url("../../../assets/cute-cat-no-bg-smol.png") no-repeat center center;
+    border-radius: 21px;
+}
+
+.image {
+    border-radius: 21px;
+    background-color: #000;
+}
